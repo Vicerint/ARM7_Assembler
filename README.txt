@@ -1,5 +1,5 @@
 Code written by: Michael Agnew
-CPE 221/01, Dr. Bhadani
+CPE 221/01
 11/28/2023
 
 Instructions for running "ARM.cpp"
