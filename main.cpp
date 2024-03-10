@@ -1,5 +1,5 @@
 // Michael Agnew
-// CPE 221/01 Dr. Bhadani
+// CPE 221/01
 // Due: 11/29/2023
 // Takes in ARM code from input file and converts it to hex machine code before outputting to output file output.s
 
